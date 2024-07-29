@@ -14,7 +14,7 @@
 * The 'ORDER BY' clause is used to sort the result set of a query into the orders specified to which the function is applied independently.
 * For some analytical functions 'PARTITION BY' clause must be used including 'ORDER BY' clause.
 
-## Analytical functions in SQL Server:
+## Analytical functions in MySQL:
 ### Aggregate Functions:
 * Aggregate functions with Analytical functions, extends the analytical capability of SQL queries by allowing aggregations to be computed over specific partitions or ordered subsets of data, providing deeper insights and flexibility in analyzing relational datasets.
 ```sql

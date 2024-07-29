@@ -27,7 +27,7 @@ SELECT DISTINCT job FROM employees.emp;
 SELECT DISTINCT job AS employeejob FROM employees.emp;
 ```
 
-## Commonly used clauses in SQL Server:
+## Commonly used clauses in MySQL:
 * In MySQL Server DQL, clauses are components of SQL statements that provide additional instructions or conditions to control the behavior of the query.
 * Clauses can be used in various SQL statements such as SELECT, INSERT, UPDATE, DELETE, and more.
 * These clauses allow users to filter, manipulate, and organize data according to specific requirements.

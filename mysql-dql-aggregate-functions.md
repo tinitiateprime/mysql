@@ -10,7 +10,7 @@
 * They allow you to derive summary statistics or perform calculations across multiple rows in a table.
 * These functions can be combined with other clauses like GROUP BY, HAVING, and DISTINCT to perform more sophisticated analysis and summarization of data in SQL Server.
 
-## Aggregate functions in SQL Server:
+## Aggregate functions in MySQL:
 ### COUNT:
 * Counts the number of rows in a result set.
 ```sql

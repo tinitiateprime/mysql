@@ -10,7 +10,7 @@
 * These are essential for manipulating and combining data from multiple tables.
 * The main set operations include UNION, INTERSECT, and EXCEPT. 
 
-## Set Operations in SQL Server:
+## Set Operations in MySQL:
 ### UNION:
 * The UNION operator is used to combine the results of two or more SELECT statements into a single result set.
 * It returns all distinct rows from both result sets. It removes duplicate rows by default.

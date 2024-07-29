@@ -8,7 +8,7 @@
 # DQL - Basic Operators
 * In MySQL Server, operators are symbols or keywords used to perform operations on data, such as arithmetic operations, logical comparisons, and pattern matching.
 
-## Commonly used operators in SQL Server:
+## Commonly used operators in MySQL:
 ### Equality Operator (=):
 * The equality operator (=) is used in a WHERE clause to filter rows where the value in a column is equal to a specified value.
 * It returns true if the values are equal, otherwise false.
