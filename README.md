@@ -45,12 +45,12 @@
 * ### [DQL - Set Operations](mysql-dql-set-operations.md)
     * Union
     * Intersect
-    * Except (MySQL uses `MINUS`)
+    * Except
 * ### [DQL - Joins](mysql-dql-joins.md)
     * Inner Join
     * Left Join (or Left Outer Join)
     * Right Join (or Right Outer Join)
-    * Full Join (MySQL uses `UNION` for this)
+    * Full Join (or Full Outer Join)
     * Cross Join
 * ### [DQL - String Functions](mysql-dql-string-functions.md)
     * Length Function (LENGTH)
@@ -61,21 +61,21 @@
     * Trim Function (TRIM)
     * Ltrim Function (LTRIM)
     * Rtrim Function (RTRIM)
-    * Charindex Function (LOCATE)
+    * Position Function (POSITION)
     * Left Function (LEFT)
     * Right Function (RIGHT)
     * Reverse Function (REVERSE)
     * Replace Function (REPLACE)
     * Case Statement (CASE)
-    * ISNULL Function (IFNULL)
+    * IFNULL Function (IFNULL)
     * Coalesce Function (COALESCE)
 * ### [DQL - Date Functions](mysql-dql-date-functions.md)
     * Current Date and time (NOW)
-    * Date Part Function (EXTRACT)
+    * Extract Function (EXTRACT)
     * Date Difference Function (DATEDIFF)
-    * Date Addition/Subtraction (DATE_ADD, DATE_SUB)
+    * Date Addition/Subtraction
     * Date Formatting (DATE_FORMAT)
-    * Weekday Function (WEEKDAY)
+    * Weekday Function (DAYOFWEEK)
     * Date to String (DATE_FORMAT)
     * DateTime to String (DATE_FORMAT)
     * String to Date (STR_TO_DATE)
